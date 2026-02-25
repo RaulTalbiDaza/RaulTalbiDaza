@@ -1,4 +1,4 @@
-#👋 Hola, soy Raúl
+👋 Hola, soy Raúl
 
 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 🚀 Construyendo proyectos reales mientras aprendo a fondo programación y tecnología
