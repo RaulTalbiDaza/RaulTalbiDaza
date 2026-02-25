@@ -1,4 +1,4 @@
-##👋 Hola, soy Raúl
+👋 Hola, soy Raúl
 
 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 🚀 Construyendo proyectos reales mientras aprendo a fondo programación y tecnología
@@ -6,7 +6,7 @@
 
 ⸻
 
-##🧠 Sobre mí##
+🧠 Sobre mí
 
 Soy estudiante de DAM con una mentalidad muy práctica: aprender haciendo.
 Me interesa entender cómo funcionan las cosas por dentro, escribir código limpio y crear aplicaciones que realmente resuelvan problemas.
@@ -15,7 +15,7 @@ No busco solo aprobar, busco dominar las bases para poder escalar a proyectos m�
 
 ⸻
 
-##🛠️ Tecnologías y herramientas##
+🛠️ Tecnologías y herramientas
 
 Lenguajes
 	•	Java
@@ -38,7 +38,7 @@ Herramientas
 
 ⸻
 
-##📂 Proyectos destacados##
+📂 Proyectos destacados
 
 🔹 Ejercicios y prácticas de DAM
 
@@ -50,7 +50,7 @@ Repositorio con ejercicios de:
 
 ⸻
 
-##📚 Aprendiendo actualmente##
+📚 Aprendiendo actualmente
 	•	Programación Orientada a Objetos en Java (a fondo)
 	•	Integración Java + MySQL
 	•	Buenas prácticas de código
@@ -58,7 +58,7 @@ Repositorio con ejercicios de:
 
 ⸻
 
-##🎯 Objetivos##
+🎯 Objetivos
 	•	Convertirme en desarrollador profesional
 	•	Crear proyectos propios con potencial real
 	•	Seguir aprendiendo de forma constante y disciplinada
@@ -66,14 +66,14 @@ Repositorio con ejercicios de:
 
 ⸻
 
-##📈 GitHub##
+📈 GitHub
 
 Este perfil refleja mi progreso real.
 Cada proyecto es un paso más hacia un nivel profesional más alto.
 
 ⸻
 
-##📫 Contacto##
+📫 Contacto
 
 📩 Email: raultd07@gmail.com
 🔗 LinkedIn:
