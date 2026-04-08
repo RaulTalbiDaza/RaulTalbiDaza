@@ -17,16 +17,19 @@ No busco solo aprobar, busco dominar las bases para poder escalar a proyectos m�
 
 🛠️ Tecnologías y herramientas
 
-Lenguajes
+Lenguajes:
+
 	•	Java
 	•	SQL
 	•	Python (básico)
 	•	Shell
 
-Bases de datos
+Bases de datos:
+
 	•	MySQL Workbench
 
-Herramientas
+Herramientas:
+
 	•	Git & GitHub
 	•	IntelliJ IDEA
 	•	Eclipse IDE
