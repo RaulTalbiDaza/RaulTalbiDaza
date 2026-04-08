@@ -41,18 +41,6 @@ Herramientas:
 
 ⸻
 
-📂 Proyectos destacados
-
-🔹 Ejercicios y prácticas de DAM
-
-Repositorio con ejercicios de:
-	•	Programación en Java
-	•	Lógica y estructuras de control
-
-👉 Ideal para ver mi evolución como programador.
-
-⸻
-
 📚 Aprendiendo actualmente
 	•	Programación Orientada a Objetos en Java (a fondo)
 	•	Integración Java + MySQL
