@@ -1,75 +1,69 @@
-👋 Hola, soy Raúl
+# 👋 Hi, I'm Raúl
 
-💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
-🚀 Construyendo proyectos reales mientras aprendo a fondo programación y tecnología
-🎯 Objetivo a largo plazo: crear productos propios y alcanzar la independencia financiera
+💻 Multiplatform Application Development (DAM) Student
+🚀 Building real projects while learning programming and technology from the ground up
+🎯 Long-term goal: create my own products and achieve financial independence
 
-⸻
+---
 
-🧠 Sobre mí
+## 🧠 About Me
 
-Soy estudiante de DAM con una mentalidad muy práctica: aprender haciendo.
-Me interesa entender cómo funcionan las cosas por dentro, escribir código limpio y crear aplicaciones que realmente resuelvan problemas.
+I'm a DAM student with a practical mindset: learning by doing. I'm interested in understanding how things work under the hood, writing clean code, and building applications that actually solve problems.
 
-No busco solo aprobar, busco dominar las bases para poder escalar a proyectos más grandes en el futuro.
+I'm not just here to pass — I'm here to master the fundamentals and scale to bigger projects in the future.
 
-⸻
+---
 
-🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
-Lenguajes:
+**Languages:**
+- Java
+- SQL
+- Python
+- Shell
 
-	•	Java
-	•	SQL
-	•	Python (básico)
-	•	Shell
+**Databases:**
+- MySQL Workbench
 
-Bases de datos:
+**Tools:**
+- Git & GitHub
+- IntelliJ IDEA
+- Eclipse IDE
+- NetBeans
+- Visual Studio Code
+- Packet Tracer
+- Oracle VirtualBox
+- VMware
 
-	•	MySQL Workbench
+---
 
-Herramientas:
+## 📚 Currently Learning
+- Object-Oriented Programming in Java (in depth)
+- Java + MySQL integration
+- Clean code best practices
+- Proper Git workflow in real projects
 
-	•	Git & GitHub
-	•	IntelliJ IDEA
-	•	Eclipse IDE
-	•	NetBeans
-	•	Visual Studio Code
-	•	Packet Tracer
-	•	Oracle VirtualBox
-	•	VMware
+---
 
-⸻
+## 🎯 Goals
+- Become a professional developer
+- Build my own projects with real potential
+- Keep learning consistently and with discipline
+- Never settle for the minimum
 
-📚 Aprendiendo actualmente
-	•	Programación Orientada a Objetos en Java (a fondo)
-	•	Integración Java + MySQL
-	•	Buenas prácticas de código
-	•	Uso correcto de Git en proyectos reales
+---
 
-⸻
+## 📈 GitHub
 
-🎯 Objetivos
-	•	Convertirme en desarrollador profesional
-	•	Crear proyectos propios con potencial real
-	•	Seguir aprendiendo de forma constante y disciplinada
-	•	No conformarme con lo mínimo
+This profile reflects my real progress. Every project is one step closer to a higher professional level.
 
-⸻
+---
 
-📈 GitHub
-
-Este perfil refleja mi progreso real.
-Cada proyecto es un paso más hacia un nivel profesional más alto.
-
-⸻
-
-📫 Contacto
+## 📫 Contact
 
 📩 Email: raultd07@gmail.com
 🔗 LinkedIn:
 
-⸻
+---
 
-Siempre aprendiendo. Siempre construyendo. 🚀
-
+*Always learning. Always building. 🚀*
